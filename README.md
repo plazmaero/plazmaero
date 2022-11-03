@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @plazmaero
-- 👀 I’m interested in game development, languages, cosmon etc.
+- 👀 I’m interested in game development, languages, conlang etc.
 - 🌱 I’m currently learning C++ casually and Python for Pygame primarily
-- 💞️ I’m looking to collaborate on ... games?
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me, it's kæn#3712 on discord
 
 <!---
